@@ -23,6 +23,7 @@ To learn about developing components for Content and Experience Cloud, see the l
 ```
 cd  <download-path>/content-and-experience-toolkit/sites
 npm install
+cd
 ```
 
 * Put `cec` on your path:
